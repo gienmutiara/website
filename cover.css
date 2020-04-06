@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.header{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: orange;
+    border-radius: 20px;
+    padding: 20px;
+    font-weight: 100px;
+    box-shadow: 10px 10px 10px;
+
+}
+.kotak{
+    background-color: yellow;
+    box-shadow: 10px 10px 10px;
+    border-radius: 20px;
+    padding: 100px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: auto;
+    height: 300px;
+    margin-top: 30px;
+
+
+}.about{
+    text-align: center;
+    background-color:rgba(255, 153, 0, 0.719);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    margin-left: 500px;
+    margin-right: 260px;
+    margin-top: 30px;
+    
+}
+.gambar{
+    
+        width: 500px;
+        height: 250px;
+        margin-top: 50px;
+        margin-left: 250px;
+        margin-right: 250px;
+}
